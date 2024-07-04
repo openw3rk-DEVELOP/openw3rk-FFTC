@@ -17,6 +17,7 @@
 openw3rk-FFTC is a graphical python program which serves as a filezilla FTP client. <br>
 it is simple in design and easy to use. <br> 
 It is compatible with: Windows XP, Vista, 7, 8, 10 and 11 <br> 
+It also runs on Linux in combination with wine - tested on Debian 12. <br>
 If a required Python library is not installed and the program is run on a new computer, the required libraries are installed automatically. <br> 
 It was developed for use on weak hardware because it is more resource-efficient than programs with high graphical requirements.
 </p>

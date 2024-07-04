@@ -1,13 +1,29 @@
-
+<center>
 <pre>
-                           ____     __     _____  ___   _______  ________
- ___  ___  ___ ___ _    __|_  /____/ /__  /  _/ |/ / | / / __/ |/ /_  __/
-/ _ \/ _ \/ -_) _ \ |/|/ //_ </ __/  '_/ _/ //    /| |/ / _//    / / /   
-\___/ .__/\__/_//_/__,__/____/_/ /_/\_\ /___/_/|_/ |___/___/_/|_/ /_/    
-   /_/                                                                   </pre>
+                           ____    _     ___ _  ___   _____ _  _ _____ 
+  ___ _ __  ___ _ ___ __ _|__ /_ _| |__ |_ _| \| \ \ / / __| \| |_   _|
+ / _ \ '_ \/ -_) ' \ V  V /|_ \ '_| / /  | || .` |\ V /| _|| .` | | |  
+ \___/ .__/\___|_||_\_/\_/|___/_| |_\_\ |___|_|\_| \_/ |___|_|\_| |_|  
+     |_|       https://openw3rk.de / develop@openw3rk.de                                                                                                                  
+
+</pre>
+</pre></pre>
+</center>
 
 
-   <pre>
+<h2>openw3rk-FFTC [*FTP FILE TRANSFER CLIENT*]</h2>
+ <pre>
+<p>
+openw3rk-FFTC is a graphical python program which serves as a filezilla FTP client. <br>
+it is simple in design and easy to use. <br> 
+It is compatible with: Windows XP, Vista, 7, 8, 10 and 11
+  
+</p>
 
-     
-   </pre>
+</pre>
+
+
+</center>
+<footer>
+  <h5>(c) openw3rk / (c) openw3rk INVENT</h5>
+</footer>

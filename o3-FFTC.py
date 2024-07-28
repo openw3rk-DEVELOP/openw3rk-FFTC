@@ -29,7 +29,7 @@ except ImportError:
     import tkinter as tk
     from tkinter import ttk, filedialog, messagebox
     from ftplib import FTP, error_perm
-class FileZillaClone:
+class openw3rkFFTC:
     def __init__(self, master):
         self.master = master
         self.master.title("openw3rk-FFTC")
@@ -194,5 +194,5 @@ if __name__ == "__main__":
         install_packages()
     
     root = tk.Tk()
-    app = FileZillaClone(root)
+    app = openw3rkFFTC(root)
     root.mainloop()
